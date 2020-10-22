@@ -99,7 +99,7 @@
           a: "Angular",
           b: "jQuery",
           c: "Typescript",
-          d: "React"
+          d: "java"
         },
         correctAnswer: "a"
       },
